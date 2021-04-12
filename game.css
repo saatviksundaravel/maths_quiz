@@ -1,18 +1,13 @@
-body{
-	background-image:url("background.jpg");
-	background-repeat:no-repeat ;
+body
+{
+	background:url(background.jpg);
+	background-repeat: no-repeat;
 	background-size: cover;
-	text-align: center;
-	
-}
-
-.heading{
-	margin-left: 500px;
+	margin-left: 550px;
 }
 
 	.player_1_login , .player_2_login
 	{
-		margin-left: 500px;
 		background: white;
 		padding: 10px;
 		float: none;
@@ -41,10 +36,4 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
-}
-
-#btn_login{
-	margin-top: 50px;
-	margin-left: 500px;
-	width: 200px;
 }
