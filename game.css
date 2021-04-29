@@ -20,7 +20,7 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+.number_field
 {
 	width: 60%;
 }
